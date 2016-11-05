@@ -1,7 +1,5 @@
 
-# Angular QuickStart Source
-[![Build Status][travis-badge]][travis-badge-url]
-
+# Ecotricity Angular Map Demo
 
 ## Server
 
