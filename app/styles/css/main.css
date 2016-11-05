@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif; }
+  body .sebm-google-map-container {
+    height: 600px;
+    width: 100%; }
+  body header {
+    padding: 40px; }
